@@ -65,7 +65,7 @@ Guardio provides **on-device, adaptive anomaly detection** that:
 
 ## 🎬 Demo Video
 
-> [🔗 Watch Live Demo](https://ennovatex.io/demo)
+> [🔗 Watch Live Demo](https://youtu.be/kQXd9r5204I?si=fqsvdkuGIK3ICQBz)
 >
 > *See Guardio detecting real-time anomalies and adapting to user behavior in real-time*
 
@@ -306,7 +306,7 @@ Guardio is designed with privacy as a core principle. All behavioral analysis oc
 
 - 📧 **Email**: omprakash11273@gmail.com
 - 🐙 **GitHub**: [github.com/mellowmates/guardio](https://github.com/mellowmates/guardio)
-- 🎬 **Demo Video**: [Watch Demo](https://ennovatex.io/demo)
+- 🎬 **Demo Video**: [Watch Demo](https://youtu.be/kQXd9r5204I?si=fqsvdkuGIK3ICQBz)
 - 🏆 **Samsung EnnovateX**: [ennovatex.io](https://ennovatex.io)
 
 ---
